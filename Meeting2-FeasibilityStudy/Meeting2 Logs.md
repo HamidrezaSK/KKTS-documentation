@@ -1,7 +1,3 @@
----
-
-
----
 
 <p>**</p>
 <h2 id="second-meeting---feasibility-study">Second Meeting - Feasibility Study</h2>
