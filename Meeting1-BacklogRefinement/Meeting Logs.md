@@ -1,7 +1,3 @@
----
-
-
----
 
 <p>**</p>
 <h2 id="first-meeting---backlog-refinement">First Meeting - Backlog refinement</h2>
